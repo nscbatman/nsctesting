@@ -1,10 +1,10 @@
 # nsctesting
 Sample codes written on Angular5
 
-#Prerequisites
+Prerequisites
 Node has to be installed on the system.
 
-#Steps
+Steps
 1. Clone the repository on the local.
 2. Go to the path where you can see the package.json file.
 3. Run npm install.
